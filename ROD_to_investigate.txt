@@ -1,0 +1,14 @@
+0x311e00 65  ROD swap due to resyncs at 3893
+0x311f00 67  GOL fix at 500, ROD swap at 2050 
+0x321100 47  ROD PP swap at 5226 
+0x321600 178 Cable reseat at 4910
+0x322000 60  ROD Swap at 3291, ROD PP swap at September 4 2017
+0x330b01 134 ROD PP swap 4957, ROD PP swap at 5003
+0x331801 140 ROD and Cable reseat at 4910
+0x331c02 77  ROD swap at 4910
+0x340601 27  No events
+0x340a01 23  No events
+0x340c01 36  No events
+0x341302 143 ROD PP replacement at 4910 
+0x341401 360 Cable swap at 4013 ROD Swap at 4910
+0x341701 18
